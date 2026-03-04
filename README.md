@@ -48,11 +48,11 @@ The dashboard focuses on revenue trends, customer insights, product performance,
 
 ##  Business Value
 This dashboard enables decision-makers to:                                                                               
-✔ Monitor revenue performance                                                                                  
-✔ Optimize discount strategies                                                 
-✔ Identify high-value customers
-✔ Focus on high-performing cities
-✔ Make data-driven business decisions  
+* Monitor revenue performance                                                                                  
+* Optimize discount strategies                                                 
+* Identify high-value customers
+* Focus on high-performing cities
+* Make data-driven business decisions  
 
 
 ##  Repository Structure
